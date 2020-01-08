@@ -8,5 +8,5 @@ JavaScript, HTML5, CSS, D3.js
 
 ## Images: 
 
-![alt text](https://github.com/OxanaK/BarChart/blob/master/example_photos/sGraph1.jpg)
-![alt text](https://github.com/OxanaK/BarChart/blob/master/example_photos/sGraph2.jpg)
+![alt text](https://github.com/OxanaK/ScatterplotGraph/blob/master/example_photos/sGraph1.jpg)
+![alt text](https://github.com/OxanaK/ScatterplotGraph/blob/master/example_photos/sGraph2.jpg)
